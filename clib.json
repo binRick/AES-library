@@ -1,0 +1,16 @@
+{
+    "name": "aes",
+    "version": "0.0.1",
+    "repo": "binRick/AES-library",
+    "description": "AES",
+    "keywords": [
+        "c",
+        "string"
+    ],
+    "license": "MIT",
+    "makefile": "Makefile",
+    "install": "make install",
+    "dependencies": {
+        "clibs/module": "0.1.1"
+    }
+}
